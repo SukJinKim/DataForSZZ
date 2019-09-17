@@ -1,6 +1,7 @@
-public void bar() {
+public void foo() {
     //print report
-    if (report == null) {
+    if (report == null)
+    {
         println(report);
     }
 }
